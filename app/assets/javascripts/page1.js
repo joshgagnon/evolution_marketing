@@ -1,4 +1,6 @@
+
 let exclaimify = require('./exclaimify')
+require('bootstrap')
 
 console.log(exclaimify('page1.js loaded'))
 

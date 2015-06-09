@@ -19,11 +19,12 @@ module.exports = function(env) {
 
     module: {
       loaders: [
+        { test: /bootstrap\/js\//, loader: 'imports?jQuery=jquery' },
         {
           test: /\.js$/,
           loader: 'babel-loader?stage=1',
           exclude: /node_modules/
-        }
+        },
       ]
     }
   }

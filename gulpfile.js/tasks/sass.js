@@ -11,7 +11,7 @@ gulp.task('sass', function () {
     .pipe(sourcemaps.init())
     .pipe(sass(config.settings))
     .on('error', handleErrors)
-    .pipe(sourcemaps.write())
+    .pipe(sourcemaps.write({includeContent: false, sourceRoot: '.'}))
     .pipe(autoprefixer(config.autoprefixer))
     .pipe(gulp.dest(config.dest))
     .pipe(browserSync.reload({stream:true}));
