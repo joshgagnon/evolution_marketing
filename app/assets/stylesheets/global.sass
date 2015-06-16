@@ -1,5 +1,78 @@
+@import bootstrap/_variables
+@import bootstrap/_mixins
+@import bootstrap/_normalize
+@import bootstrap/_scaffolding
+@import bootstrap/_grid
+@import bootstrap/_navs
+@import bootstrap/_forms
+@import bootstrap/_navbar
+@import bootstrap/_responsive-utilities
 @import generated/icons
 @import base/colors
 @import base/mixins
 @import base/typography
-@import bootstrap
+
+
+html, body
+    height:100%
+    margin:0
+    padding:0
+
+.page-header
+    background-color: $bg
+    text-align:left
+    padding:8px
+
+.nav-wrap
+    background-color: $barblue
+    .nav
+        margin-top:0
+        text-align:right
+    li
+        a
+            color: $text-color
+            text-decoration: none
+            border-radius:0
+
+
+#lightbulb
+    background-color: #000  //url("/assets/images/lightbulb.png") no-repeat scroll center
+    width:100%;
+    img
+        max-width:100%
+
+
+section
+    text-align: center
+
+hr
+    max-width:100px
+    border: 2px solid $highlight
+
+
+.split
+    position: relative
+    background-color: #ade9ff
+    .col
+
+        font-size: 1.5em
+        font-style: italic
+        padding:100px 10px
+        min-height:300px
+
+    .col:first-child
+        background-color: #a6f0c9
+
+    .center-img
+        width: 150px;
+        position: absolute;
+        left: calc(50% - 75px);
+        top: calc(50% - 75px);
+
+    .vertical-center
+        display:table
+        height:100%
+
+        & > div
+            display:table-cell;
+            vertical-align: middle;
