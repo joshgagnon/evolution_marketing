@@ -79,9 +79,13 @@ hr
     max-width:100px
     border: 2px solid $highlight
 
-h3,h4
-    text-align: center
+h3
+    font-size:2em
 
+h3, h4
+    text-align: center
+h4
+    font-style:italic
 .split
     position: relative
     text-align:center
@@ -154,7 +158,6 @@ img.scale-image
 
 .server
     background-image: url(/assets/images/server.jpg)
-
     img
         max-width:90%
 
@@ -170,13 +173,18 @@ img.scale-image
 .yay
     color: #000
     background-image: url(/assets/images/yay.jpg)
-
+    h2
+        font-size: 2.5em
 
 .icons
-    margin-bottom:40px
-    div
-        word-break: break-all;
-        text-align:center
+    max-width:100%
+    word-break: break-all;
+    td:first-child
+        text-align:right
+        padding:10px
+        padding-right:40px
+        @media (min-width: 768px)
+            width:50%
     a
         text-decoration: none
         color:$text-color
