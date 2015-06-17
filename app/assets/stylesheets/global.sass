@@ -1,3 +1,4 @@
+@import font-awesome
 @import bootstrap/_variables
 @import bootstrap/_mixins
 @import bootstrap/_normalize
@@ -9,12 +10,13 @@
 @import bootstrap/_type
 @import bootstrap/_responsive-utilities
 @import bootstrap/_tables
+
 @import generated/icons
 @import base/colors
 @import base/mixins
 @import base/typography
 
-@mixin cover
+@mixin image
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
     -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
     background-size: cover
@@ -117,6 +119,77 @@ table
         width: 25%
 
 
+
+
+#people
+    img
+      width: 100%
+      height: auto
+      max-width: 400px
+
+
+.image-section
+    @include image
+    background-repeat: no-repeat
+    background-size: cover
+    position: relative
+    height:100%
+    min-height:400px
+    max-height:1000px
+    color: #ffffff
+    text-align: center
+    h2
+        position:absolute
+        width:100%
+        font-weight:bold
+        left: 0
+    .top
+        top:10px
+    .bottom
+        bottom:40px
+
+img.scale-image
+    max-width:100%
+
+
+.server
+    background-image: url(/assets/images/server.jpg)
+
+    img
+        max-width:90%
+
+.stegosaurus
+    background-image: url(/assets/images/steg.jpg)
+    margin-bottom:0
+    background-position: center bottom
+
+.time
+    background-image: url(/assets/images/time.jpg)
+    background-position: center top
+
+.yay
+    color: #000
+    background-image: url(/assets/images/yay.jpg)
+
+
+.icons
+    margin-bottom:40px
+    div
+        word-break: break-all;
+        text-align:center
+    a
+        text-decoration: none
+        color:$text-color
+
+    .fa
+        font-size:4em
+        padding:4px
+    i
+        width:100%
+        display:inline-block
+
+
+
 /* vertical alignment styles */
 
 .col-top
@@ -165,45 +238,3 @@ table
     .col-lg-height
         display: table-cell;
         float: none !important;
-
-#people
-    img
-      width: 100%
-      height: auto
-      max-width: 400px
-    p
-        margin-bottom:40px
-
-.image-section
-    @include cover
-    position: relative
-    height:100%
-    max-height:600px
-    color: #ffffff
-    text-align: center
-    h2
-        position:absolute
-        width:100%
-        font-weight:bold
-        left: 0
-    .top
-        top:40px
-    .bottom
-        bottom:40px
-.server
-    background-image: url(/assets/images/server.jpg)
-
-.stegosaurus
-    background-image: url(/assets/images/steg.jpg)
-    margin-bottom:0
-
-.desk
-    color: #000
-    background-image: url(/assets/images/desk.jpg)
-.time
-    background-image: url(/assets/images/time.jpg)
-.astro
-    background-image: url(/assets/images/astro.jpg)
-.yay
-    color: #000
-    background-image: url(/assets/images/yay.jpg)

@@ -1,5 +1,4 @@
-{% extends 'layouts/application.html' %}
-{% block content %}
+{% extends 'layouts/application.html' %} {% block content %}
 <section class="lightbulb">
     <img src="/assets/images/lightbulb.png" alt="Our ideas are going to change things" />
 </section>
@@ -11,10 +10,12 @@
     </div>
     <hr/>
 </section>
-<section class="server image-section">
+<section class="server image-section full">
     <div class="container-fluid">
-        <h2 class="top">Law is an old profession</h2>
-        <h2 class="bottom">This is what the future looks like</h2>
+     <h2 class="top"><img class="top" src="/assets/images/oldprof.png" alt="Law is an old profession" /></h2>
+    <h2 class="bottom"> <img class="bottom" src="/assets/images/future.png" alt="This is what the future looks like" /></h2>
+       <!--<h2 class="top"><span>Law is an old profession</span></h2>
+        <h2 class="bottom"><span>This is what the future looks like</span></h2>-->
     </div>
 </section>
 <section id="philosophy">
@@ -35,9 +36,8 @@
         <hr/>
     </div>
 </section>
-<section class="desk image-section">
-    <div class="container-fluid">
-        <h2 class="top">We prefer a home office to an ivory tower</h2>
+<section class="desk text-center">
+    <img class="scale-image" src="/assets/images/desk.jpg" alt="We prefer a home office to an ivory tower" />
     </div>
 </section>
 <section>
@@ -66,13 +66,13 @@
         <hr/>
         <p>Having no central premises has absolutely no impact on the quality of the legal product.  Our lawyers are connected to each other 24/7, are subject to the same rules that would apply in any physical law firm, including best practice rules around management, delegation, and peer-review, and make use of all the benefits of modern technology.  </p>
         <p>
-            And we mean modern technology.  Tamina and Thomas are the founders of CataLex (www.catalex.nz) – a company at the cutting edge of legal solutions software.  Evolution benefits from its association with CataLex in a number of ways, including by having CataLex develop an online client relationship portal specifically for Evolution.  It also means we can ensure our services are truly modern, and of the highest possible standard.</p>
+            And we mean modern technology.  Tamina and Thomas are the founders of <a href="http://catalex.nz">CataLex</a> – a company at the cutting edge of legal solutions software.  Evolution benefits from its association with CataLex in a number of ways, including by having CataLex develop an online client relationship portal specifically for Evolution.  It also means we can ensure our services are truly modern, and of the highest possible standard.</p>
     </div>
 </section>
-<section class="astro image-section">
-    <div class="container-fluid">
-        <h2 class="top">Law is not the final frontier</h2>
-        <h2 class="bottom">But we are going where no firm has gone before</h2>
+<section class="astro">
+    <div class="text-center">
+        <img class="scale-image" src="/assets/images/astro.jpg" alt="Law is not the final frontier,
+        But we are going where no firm has gone before" />
     </div>
 </section>
 <section>
@@ -101,7 +101,7 @@
         <hr/>
     </div>
 </section>
-<section class="time image-section">
+<section class="time image-section full">
     <div class="container-fluid">
         <h2 class="top">Our time isn't worth anything.  But our services are.</h2>
     </div>
@@ -111,40 +111,40 @@
         <p>
             Let’s talk fees.  Most firms charge by the hour – so do we.  The difference?  We charge different rates according to the service being provided; not the person providing the service.  There are three tiers: Category A ($350) – Core Legal Services, for example appearing in Court or drafting a bespoke contract; Category B ($250) – Related Legal Services, for example researching a point of law or corresponding with clients about matter progress; and Category C ($150) – Incidental Services, for example maintaining a data room or preparing a bundle of documents.
             <div class="table-responsive">
-            <table class="table">
-              <thead>
-                <tr>
-                    <th>Fee category</th>
-                    <th>Rate</th>
-                    <th>Types of work</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                    <td>A - Core Legal Services</td>
-                    <td>$350</td>
-                    <td>Original drafting of instruments and claims, writing a legal opinion, providing written legal advice, providing substantive legal advice over the telephone, Skype, or in person, appearing in Court, acting in a negotiation or mediation, and attending a meeting at your request.</td>
-                </tr>
-                <tr>
-                    <td>B - Related Legal Services</td>
-                    <td>$250</td>
-                    <td>Reviewing documents and evidence, researching the law, considering application of the law, completing a basic precedent document, and correspondence with you, other lawyers, and the Court, including reporting on matter progress, seeking further instructions, and following up deadlines and other known requirements.</td>
-                </tr>
-                <tr>
-                    <td>C - Incidental Services</td>
-                    <td>$150</td>
-                    <td>Proof-reading, compiling a bundle of documents or authorities, administering a data room, and general matter management.</td>
-                </tr>
-                </tbody>
-            </table>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Fee category</th>
+                            <th>Rate</th>
+                            <th>Types of work</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>A - Core Legal Services</td>
+                            <td>$350</td>
+                            <td>Original drafting of instruments and claims, writing a legal opinion, providing written legal advice, providing substantive legal advice over the telephone, Skype, or in person, appearing in Court, acting in a negotiation or mediation, and attending a meeting at your request.</td>
+                        </tr>
+                        <tr>
+                            <td>B - Related Legal Services</td>
+                            <td>$250</td>
+                            <td>Reviewing documents and evidence, researching the law, considering application of the law, completing a basic precedent document, and correspondence with you, other lawyers, and the Court, including reporting on matter progress, seeking further instructions, and following up deadlines and other known requirements.</td>
+                        </tr>
+                        <tr>
+                            <td>C - Incidental Services</td>
+                            <td>$150</td>
+                            <td>Proof-reading, compiling a bundle of documents or authorities, administering a data room, and general matter management.</td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
             We believe staggering our rates this way not only promotes efficiency; it also makes for better fee estimates and ensures our fees are reasonable, as required by the Lawyers and Conveyancers Act (Lawyers: Conduct and Client Care) Rules 2008.
         </p>
     </div>
 </section>
-<section class="yay image-section">
+<section class="yay image-section full">
     <div class="container-fluid">
-        <h2 class="top">Intitally factor farmed<br/>Now free range</h2>
+        <h2 class="top">Intitally factory farmed<br/><br/>Now free range</h2>
     </div>
 </section>
 <section id="people">
@@ -153,33 +153,108 @@
         <p>Tamina and Thomas initially worked together at a top-tier commercial law firm, before leaving that firm to found CataLex (legal software) in 2014 and Evolution Lawyers (legal services) in 2015.  They are long-standing friends and professional colleagues.  Tamina, in fact, was moving counsel in Thomas’ admission to the bar.  Through Evolution Lawyers, they can finally combine their complimentary skill sets and unique backgrounds to provide a better standard of legal service to the New Zealand business community.</p>
     </div>
     <div class="container">
-            <div class="text-center"><img src="/assets/images/tamina.jpg" /></div>
-        <div >
+        <div class="text-center"><img src="/assets/images/tamina.jpg" /></div>
+        <div>
             <h3>Tamina Cunningham-Adams</h3>
             <h4>LLB (Hons), BA, B Ed (Tchg)</h4>
             <p>
                 Tamina is the firm’s managing director.  She excels at helping clients overcome challenges affecting their business, particularly when it comes to disputes and insolvency matters.  She focuses on understanding her clients’ businesses and developing long-term relationships, so as to provide truly valuable legal counsel.  At the same time as being director of Evolution and CataLex, Tamina is a practising liquidator of complex corporate assignments and CEO of insolvency firm, Fisher White & Associates.  She is also a published author, guest lecturer in commercial law at the University of Auckland, and a qualified teacher.
             </p>
+                <div class="icons row">
+                <div class="col-xs-6 col-md-3">
+                    <a href="https://nz.linkedin.com/pub/tamina-cunningham-adams/30/195/a64" target="_blank"><i class="fa fa-linkedin-square">
+                </i><br/>
+                Tamina @ LinkedIn</span>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                <a href="tel:+64211515137"><i class="fa fa-mobile-phone">
+                </i><br/>
+                + 64 21 1515 137
+                 </a>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                    <a href="mailto:tamina@evolutionlawyers.nz">
+                        <i class="fa fa-at">
+                </i>
+                        <br/> tamina@evolutionlawyers.nz
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                    <i class="fa fa-skype">
+                </i>
+                    <br/> taminacunningham
+                </div>
+            </div>
         </div>
         <div>
             <div class="text-center"><img src="/assets/images/thomas.jpg" /></div>
             <h3>Thomas Bloy</h3>
             <h4>LLB</h4>
             <p>
-Thomas is a problem-solver.  He enjoys dealing with complex legal matters over a wide range of subject areas - large or small, litigation or transactional.  He is also the creative force behind Evolution Lawyers and CataLex, and managing director of the latter.  At Evolution, he is in charge of systems administration, quality assurance, process improvement, and operational
-efficiency.  He also develops and maintains the firm’s knowledge assets.  Thomas is a published author, with one of his articles being favourably cited in Canadian case law.  Before becoming a lawyer, he was an operations’ analyst for a large insurance company and, before that, a musician.  
+                Thomas is a problem-solver.  He enjoys dealing with complex legal matters over a wide range of subject areas - large or small, litigation or transactional.  He is also the creative force behind Evolution Lawyers and CataLex, and managing director of the latter.  At Evolution, he is in charge of systems administration, quality assurance, process improvement, and operational efficiency.  He also develops and maintains the firm’s knowledge assets.  Thomas is a published author, with one of his articles being favourably cited in Canadian case law.  Before becoming a lawyer, he was an operations’ analyst for a large insurance company and, before that, a musician.
             </p>
+            <div class="icons row">
+                <div class="col-xs-6 col-md-3">
+                    <a href="https://nz.linkedin.com/in/thomasbloy" target="_blank"><i class="fa fa-linkedin-square">
+                </i><br/>
+                Thomas @ LinkedIn</span>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                <a href="tel:+64274538552"><i class="fa fa-mobile-phone">
+                </i><br/>
+                + 64 274 538 552
+                 </a>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                    <a href="mailto:thomas@evolutionlawyers.nz">
+                        <i class="fa fa-at">
+                </i>
+                        <br/> thomas@evolutionlawyers.nz
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                    <i class="fa fa-skype">
+                </i>
+                    <br/> thomas.bloy
+                </div>
+            </div>
         </div>
-
     </div>
 </section>
-<section class="stegosaurus image-section">
+<section id="contact">
+    <div class="container">
+        <h3>CONTACT</h3>
+        <p class="text-center">Contact us individually via the details above, or by the following:</p>
+            <div class="icons row">
+                <div class="col-xs-6 col-md-4">
+                <a href="tel:+64274538552"><i class="fa fa-fax">
+                </i><br/>
+                Fax - +64 9 929 3332
+                 </a>
+                </div>
+                <div class="col-xs-6 col-md-4">
+                    <a href="mailto:mail@evolutionlawyers.nz">
+                        <i class="fa fa-at">
+                </i>
+                        <br/> mail@evolutionlawyers.nz
+                    </a>
+                </div>
+                <div class="col-xs-6 col-md-4">
+                    <i class="fa fa-envelope-o">
+                </i>
+                    <br/> PO Box 40046, Glenfield, Auckland 0747
+                </div>
+            </div>
+
+        <hr/>
+    </div>
+</section>
+<section class="stegosaurus image-section full">
     <div class="container-fluid">
         <h2 class="top">Dinosaurs dominated the earth for a long time...
-        <br/>...then they went extinct.</h2>
+        <br/><br/>...then they went extinct.</h2>
     </div>
 </section>
-{% endblock %}
-{% block javascript %}
+{% endblock %} {% block javascript %}
 <script src="assets/javascripts/app.js"></script>
 {% endblock %}
