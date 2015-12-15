@@ -1,0 +1,2215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curre",
+				"current_app"
+			],
+			[
+				"compon",
+				"componentDidMount"
+			],
+			[
+				"componen",
+				"componentWillUnmount"
+			],
+			[
+				"find",
+				"findTarget"
+			],
+			[
+				"arrow",
+				"arrowStyle"
+			],
+			[
+				"get",
+				"getDefaultData"
+			],
+			[
+				"newP",
+				"newPosition"
+			],
+			[
+				"compn",
+				"componentDidMount"
+			],
+			[
+				"thr",
+				"scroll_threshold"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"popo",
+				"popoverStack"
+			],
+			[
+				"getI",
+				"getInitialState"
+			],
+			[
+				"should",
+				"shouldComponentUpdate"
+			],
+			[
+				"container",
+				"container_width"
+			],
+			[
+				"contain",
+				"container_width"
+			],
+			[
+				"for",
+				"force_part"
+			],
+			[
+				"quey",
+				"search_query"
+			],
+			[
+				"Index",
+				"activeIndex"
+			],
+			[
+				"Plu",
+				"PublishModal"
+			],
+			[
+				"render",
+				"renderDropdown"
+			],
+			[
+				"handler",
+				"Handler"
+			],
+			[
+				"print",
+				"print-sections"
+			],
+			[
+				"handleLocation",
+				"handleLocationEnter"
+			],
+			[
+				"limi",
+				"limit_tags"
+			],
+			[
+				"targt",
+				"target_document_id"
+			],
+			[
+				"rer",
+				"reference_counts"
+			],
+			[
+				"id",
+				"id_lookup"
+			],
+			[
+				"find_",
+				"find_amendments"
+			],
+			[
+				"amend",
+				"amendment-date"
+			],
+			[
+				"targ",
+				"target_document_id"
+			],
+			[
+				"docu",
+				"document_id"
+			],
+			[
+				"lat",
+				"latest_instruments"
+			],
+			[
+				"tar",
+				"target_document_id"
+			],
+			[
+				"Custom",
+				"CustomException"
+			],
+			[
+				"docum",
+				"document_refs"
+			],
+			[
+				"update",
+				"updated_id"
+			],
+			[
+				"response",
+				"response_string"
+			],
+			[
+				"reson",
+				"response_string"
+			],
+			[
+				"dou",
+				"document_refs"
+			],
+			[
+				"parent",
+				"parent_ids"
+			],
+			[
+				"source",
+				"source_id"
+			],
+			[
+				"de",
+				"decide_govt_or_path"
+			],
+			[
+				"prin",
+				"principal_els"
+			],
+			[
+				"anc",
+				"ancestor_rule"
+			],
+			[
+				"range",
+				"range_pattern"
+			],
+			[
+				"ex",
+				"exclusive"
+			],
+			[
+				"exclu",
+				"exclusive"
+			],
+			[
+				"defau",
+				"default_priority"
+			],
+			[
+				"defa",
+				"default_priority"
+			],
+			[
+				"def",
+				"definitions"
+			],
+			[
+				"exp",
+				"expiry_tags"
+			],
+			[
+				"cata",
+				"catalex_browser"
+			],
+			[
+				"un",
+				"unbindRootCloseHandlers"
+			],
+			[
+				"Section",
+				"SectionReferences"
+			],
+			[
+				"POPO",
+				"POPOVER_TYPES"
+			],
+			[
+				"section",
+				"section_references"
+			],
+			[
+				"intit",
+				"intit_dict"
+			],
+			[
+				"target",
+				"target_paths"
+			],
+			[
+				"target_",
+				"target_document_id"
+			],
+			[
+				"tag",
+				"target_paths"
+			],
+			[
+				"ta",
+				"target_paths"
+			],
+			[
+				"nodes",
+				"nodes_by_id"
+			],
+			[
+				"ord",
+				"ordinal_pattern"
+			],
+			[
+				"Cu",
+				"CustomException"
+			],
+			[
+				"number",
+				"number_pattern"
+			],
+			[
+				"start",
+				"startswith"
+			],
+			[
+				"go",
+				"govt_id"
+			],
+			[
+				"no",
+				"node_by_id"
+			],
+			[
+				"star",
+				"startswith"
+			],
+			[
+				"ra",
+				"remainder"
+			],
+			[
+				"do_",
+				"do_subordinates"
+			],
+			[
+				"swap",
+				"swap_match"
+			],
+			[
+				"expec",
+				"expected_lines"
+			],
+			[
+				"epx",
+				"expected_lines"
+			],
+			[
+				"xpat",
+				"xpath_query"
+			],
+			[
+				"confi",
+				"config_filename"
+			],
+			[
+				"procee",
+				"processed_document"
+			],
+			[
+				"quer",
+				"query_all"
+			],
+			[
+				"Const",
+				"ContainsResults"
+			],
+			[
+				"SEARCH",
+				"SEARCH_TYPES"
+			],
+			[
+				"ag",
+				"aggregations"
+			],
+			[
+				"query",
+				"query_case_fields"
+			],
+			[
+				"adv",
+				"advancedStub"
+			],
+			[
+				"DEF",
+				"DefinitionSearch"
+			],
+			[
+				"next",
+				"nextState"
+			],
+			[
+				"net",
+				"nextState"
+			],
+			[
+				"sat",
+				"stateFields"
+			],
+			[
+				"not",
+				"not_filters"
+			],
+			[
+				"must",
+				"must_filters"
+			],
+			[
+				"act_",
+				"act_status_filter"
+			],
+			[
+				"act_type",
+				"act_type_filter"
+			],
+			[
+				"type",
+				"type_filters"
+			],
+			[
+				"ha",
+				"handleContentType"
+			],
+			[
+				"Popover",
+				"PopoverFix"
+			],
+			[
+				"re",
+				"remainder"
+			],
+			[
+				"node",
+				"nodes_from_path_string"
+			],
+			[
+				"source_id",
+				"source_document_id"
+			],
+			[
+				"Brea",
+				"DynamicArticleBreadCrumbs"
+			],
+			[
+				"Ar",
+				"ArticleLocation"
+			],
+			[
+				"Art",
+				"ArticleLocation"
+			],
+			[
+				"context",
+				"context_menu"
+			],
+			[
+				"pop",
+				"popover_offset"
+			],
+			[
+				"view",
+				"closeView"
+			],
+			[
+				"processed_",
+				"processed_document"
+			],
+			[
+				"expire",
+				"expire_tag"
+			],
+			[
+				"pro",
+				"priority"
+			],
+			[
+				"pr",
+				"priority"
+			],
+			[
+				"p",
+				"priority"
+			],
+			[
+				"links",
+				"link_store"
+			],
+			[
+				"process",
+				"process_instrument_links"
+			],
+			[
+				"inter",
+				"inter_title"
+			],
+			[
+				"get_",
+				"get_interpretation_defs"
+			],
+			[
+				"remove",
+				"remove_nbsp"
+			],
+			[
+				"ut",
+				"utf-8"
+			],
+			[
+				"offset",
+				"offsetTop"
+			],
+			[
+				"sort",
+				"sorted_children"
+			],
+			[
+				"full_",
+				"full_citation"
+			],
+			[
+				"case_se",
+				"case_skeleton_response"
+			],
+			[
+				"jude",
+				"judgment_date"
+			],
+			[
+				"generate_",
+				"generate_parsable_pdf"
+			],
+			[
+				"ap",
+				"appearences"
+			],
+			[
+				"fil",
+				"file_number"
+			],
+			[
+				"com",
+				"componentDidMount"
+			],
+			[
+				"Article",
+				"ArticleInfoTabs"
+			],
+			[
+				"show",
+				"showSidebar"
+			],
+			[
+				"ligh",
+				"light-red"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"Notif",
+				"notification"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/assets/stylesheets/global.sass",
+			"settings":
+			{
+				"buffer_size": 4468,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/base/_typography.sass",
+			"settings":
+			{
+				"buffer_size": 395,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/index.html",
+			"settings":
+			{
+				"buffer_size": 14200,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/bootstrap-sass/templates/project/styles.sass",
+			"settings":
+			{
+				"buffer_size": 184,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/shared/header.html",
+			"settings":
+			{
+				"buffer_size": 441,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/app.js",
+			"settings":
+			{
+				"buffer_size": 23,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js/config/fonts.js",
+			"settings":
+			{
+				"buffer_size": 173,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js/config/sass.js",
+			"settings":
+			{
+				"buffer_size": 444,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html",
+			"settings":
+			{
+				"buffer_size": 590,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 16501,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js/tasks/build-production.js",
+			"settings":
+			{
+				"buffer_size": 278,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"last_filter": "prety",
+		"selected_items":
+		[
+			[
+				"prety",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"SPACED",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"",
+				"Auto indent"
+			],
+			[
+				"inde",
+				"Indent JSON"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"in",
+				"Indent JSON"
+			],
+			[
+				"json",
+				"Indent JSON"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"set sy",
+				"Set Syntax: CSS"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"format js",
+				"Format: Javascript"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sync js",
+				"Set Syntax: JavaScript (JSX)"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"beayt",
+				"HTMLBeautify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"auto",
+				"Auto indent"
+			],
+			[
+				"aut",
+				"Auto indent"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"foram",
+				"Format: Javascript"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"indent sp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"deault",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"set xml",
+				"Set Syntax: XML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"for",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"fora",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"tag:",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"beat",
+				"HTMLBeautify"
+			],
+			[
+				"prettify",
+				"HTMLPrettify"
+			],
+			[
+				"beauf",
+				"HTMLBeautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"redin",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Auto indent"
+			],
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/josh/evolution_marketing",
+		"/Users/josh/evolution_marketing/app",
+		"/Users/josh/evolution_marketing/app/assets",
+		"/Users/josh/evolution_marketing/app/assets/images",
+		"/Users/josh/evolution_marketing/app/assets/stylesheets",
+		"/Users/josh/evolution_marketing/app/views",
+		"/Users/josh/evolution_marketing/public",
+		"/Users/josh/evolution_marketing/public/assets",
+		"/Users/josh/evolution_marketing/public/assets/images"
+	],
+	"file_history":
+	[
+		"/Users/josh/evolution_marketing/node_modules/.bin/gulp",
+		"/Users/josh/evolution_marketing/node_modules/gulp-sequence/gulpfile.js",
+		"/Users/josh/evolution_marketing/node_modules/karma/node_modules/colors/ReadMe.md",
+		"/Users/josh/evolution_marketing/app/views/shared/footer.html",
+		"/Users/josh/evolution_marketing/app/assets/stylesheets/base/_mixins.sass",
+		"/Users/josh/evolution_marketing/gulpfile.js/config/deploy.js",
+		"/Users/josh/evolution_marketing/app/assets/stylesheets/base/_colors.sass",
+		"/Users/josh/evolution_marketing/app/assets/javascripts/app.js",
+		"/Users/josh/evolution_marketing/app/views/shared/header.html",
+		"/Users/josh/evolution_marketing/app/assets/stylesheets/base/_typography.sass",
+		"/Users/josh/evolution_marketing/app/views/index.html",
+		"/Users/josh/evolution_marketing/app/views/layouts/application.html",
+		"/Users/josh/evolution_marketing/README.md",
+		"/Users/josh/evolution_marketing/node_modules/gulp-filesize/node_modules/gulp-util/lib/colors.js",
+		"/Users/josh/evolution_marketing/gulpfile.js/config/webpack.js",
+		"/Users/josh/evolution_marketing/app/views/page2.html",
+		"/Users/josh/tmp_sandbox/nzlawapi/package.json",
+		"/Users/josh/tmp_sandbox/nzlawapi/gulpfile.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/security/auth.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/views.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/server.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/dev.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/ButtonBar.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/prod.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/tests/plural_charcase_defs.xml",
+		"/Users/josh/tmp_sandbox/nzlawapi/utils/text_to_num.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/query/elasticsearch.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/ArticleSummary.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/acts/traversal.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/db_functions/views.sql",
+		"/Users/josh/tmp_sandbox/nzlawapi/acts/instrument_es.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/acts/links.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/mixins/Page.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/utils.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/celeries/tasks.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/scripts/process_instruments.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/scripts/process_links.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/scripts/process_skeletons.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/scripts/update_legislation.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/tests/3_definitions.xml",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/BrowserModals.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/xslt/transform.xslt",
+		"/Users/josh/tmp_sandbox/nzlawapi/query/query.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/acts/acts.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/PrintView.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/acts/queries.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/css/print.scss",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/ArticleSideBar.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/css/forms.scss",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/css/act_browser.scss",
+		"/Users/josh/tmp_sandbox/nzlawapi/node_modules/react-bootstrap/src/Button.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/css/style.scss",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/ClearInput.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/AutoComplete.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/scripts/README",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/SectionReferences.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/stores/SavedStates.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/celeryconfig.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/xslt/common.xslt",
+		"/Users/josh/tmp_sandbox/nzlawapi/xslt/contents.xslt",
+		"/Users/josh/tmp_sandbox/nzlawapi/node_modules/bootstrap/less/variables.less",
+		"/Users/josh/tmp_sandbox/nzlawapi/scripts/populate_es.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/Article.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/ArticleHandlers.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/css/button_bar.scss",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/actions/Actions.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/Browser.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/strings.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/ContainsResult.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/AdvancedSearch.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/css/page.scss",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/stores/ViewerStore.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/TabView.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/ContextMenu.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/Notifications.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/SearchResults.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/Definition.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/Popovers.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/Popover.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/acts/definitions.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/README",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/stores/BrowserStore.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/util.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/UserControls.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/css/navbar.scss",
+		"/Users/josh/tmp_sandbox/nzlawapi/config_dev.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/backup_user_info.sh",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/Tour.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/users/users.py",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/stores/PageStore.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/css/legislation_fixes.scss",
+		"/Users/josh/tmp_sandbox/nzlawapi/node_modules/react-bootstrap/lib/TabbedArea.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/TabbedArea.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/mixins/ClickOut.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/node_modules/react-router/lib/PropTypes.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/node_modules/gulp-dedupe/node_modules/colors/ReadMe.md",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/stores/SearchFormStore.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/css/popovers.scss",
+		"/Users/josh/tmp_sandbox/nzlawapi/node_modules/jest-cli/node_modules/jsdom/node_modules/cssstyle/lib/properties/stopOpacity.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/mixins/Tour.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/app.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/build/js/app.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/Banner.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/node_modules/react-bootstrap/src/PageItem.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/update_legislation.log",
+		"/Users/josh/tmp_sandbox/nzlawapi/contents.html",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/mixins/PopoverFix.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/node_modules/jest-cli/node_modules/jsdom/node_modules/cssstyle/lib/properties/webkitFlowInto.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/update.sh",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/stores/NotificationStore.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/stores/PrintStore.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/stores/PublishStore.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/SaveDialog.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/ErrorModal.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/PublishedView.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/migrations/1432766593_published_views.sql",
+		"/Users/josh/tmp_sandbox/nzlawapi/templates/published.html",
+		"/Users/josh/tmp_sandbox/nzlawapi/templates/base.html",
+		"/Users/josh/tmp_sandbox/nzlawapi/templates/browser.html",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/css/published_view.scss",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/css/1432766593_published_views.sql",
+		"/Users/josh/tmp_sandbox/nzlawapi/node_modules/reflux/src/PublisherMethods.js",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/JumpTo.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/src/js/components/ArticleScrollSpy.jsx",
+		"/Users/josh/tmp_sandbox/nzlawapi/tests/link_examples.txt",
+		"/Users/josh/tmp_sandbox/nzlawapi/tests/links_manually_fixed.txt",
+		"/Users/josh/tmp_sandbox/nzlawapi/migrations/1432520860_amendments.sql",
+		"/Users/josh/tmp_sandbox/nzlawapi/migrations/1432540598_subordinates.sql"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/josh/evolution_marketing/node_modules/bootstrap-sass/assets/stylesheets",
+			"/Users/josh/evolution_marketing/node_modules/bootstrap-sass/assets/stylesheets/bootstrap",
+			"/Users/josh/evolution_marketing/node_modules/bootstrap-sass",
+			"/Users/josh/evolution_marketing/node_modules/bootstrap-sass/assets/stylesheets/bootstrap",
+			"/Users/josh/tmp_sandbox/nzlawapi/src/js",
+			"/Users/josh/tmp_sandbox/nzlawapi/src/css",
+			"/Users/josh/tmp_sandbox/nzlawapi/src/js/components",
+			"/Users/josh/tmp_sandbox/nzlawapi/src/js/stores",
+			"/Users/josh/tmp_sandbox/nzlawapi/src/js/components",
+			"/Users/josh/tmp_sandbox/nzlawapi/src/js",
+			"/Users/josh/tmp_sandbox/nzlawapi/src/js/components",
+			"/Users/josh/tmp_sandbox/nzlawapi/acts",
+			"/Users/josh/tmp_sandbox/nzlawapi/src/js/components",
+			"/Users/josh/tmp_sandbox/nzlawapi/src/css",
+			"/Users/josh/tmp_sandbox/nzlawapi/src/js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".</",
+			"evolution is diff",
+			">\n",
+			"a href",
+			"three",
+			"style",
+			"full ser",
+			"we don't",
+			".table",
+			"justify",
+			".row",
+			"form-inline",
+			".navbar-right",
+			"container",
+			"shared.js",
+			"process_ins",
+			"updagtee",
+			"process_ins",
+			"insert_inst",
+			"monitor",
+			"process_instrument",
+			"companies",
+			"process_",
+			"277",
+			"josh",
+			"raise CustomException(",
+			"fresh",
+			"document",
+			"highlight",
+			"console",
+			"contains",
+			"statefield",
+			"getInitia",
+			"',\n",
+			"print",
+			"getValue",
+			"on'",
+			"on",
+			"index",
+			"statefields",
+			"getStateFields",
+			"eventlis",
+			"width",
+			"checkWidth",
+			"hover",
+			"print",
+			"top",
+			"pop",
+			"rerender",
+			"page_type",
+			"location",
+			"style",
+			"footer",
+			"setState",
+			"onfocus",
+			"focus()",
+			"handleformfoc",
+			"handlefocus",
+			"focus",
+			"handleart",
+			"this.ref",
+			"recalc",
+			"setSubV",
+			"showPart(",
+			"latest",
+			"reprint",
+			"setState",
+			"pure",
+			"pureren",
+			"request",
+			"console",
+			"jumpto",
+			"doc_type",
+			"SplitMode",
+			"split",
+			"toggle",
+			"split",
+			"buttonbar",
+			".close-all",
+			"close",
+			"getScrollContainer",
+			"setSub",
+			"fetch_threshold",
+			"process_inst",
+			"border",
+			"enter",
+			"child",
+			"popover",
+			"width",
+			"Popovers",
+			"pure",
+			"popovers",
+			"analyze_new_links",
+			"props.",
+			"props.id",
+			"focus",
+			"force",
+			"generate",
+			"clickout",
+			"left",
+			"dragsource",
+			"droptarg",
+			"configure",
+			"drag",
+			"configureDragDrop",
+			"popovers",
+			"0",
+			"handleArticlec",
+			"onChange",
+			"gray",
+			"important",
+			"page_dialog",
+			"showLocation",
+			"handleEnter",
+			"key",
+			"handleEnter",
+			"clickResult",
+			"handleEnter",
+			"focus",
+			"state.focus",
+			"blur",
+			"focus",
+			"fade",
+			"user_control",
+			"usercontrol",
+			"display:",
+			"purerender",
+			"linkpdf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"postgres",
+			"children: ['completed', 'failure']",
+			"failure",
+			"findall",
+			"",
+			"s",
+			"+",
+			"s",
+			"sm-",
+			"self.tree",
+			"result['title']",
+			"document_id",
+			"page",
+			"this.props.popoverPage.get('",
+			"padding:0",
+			"case",
+			"}\\n",
+			".promise()",
+			"",
+			"<li className=\"children\">",
+			"Content",
+			": {},",
+			"this.state.browser",
+			"getLocation",
+			"child_locations",
+			"_child_ids",
+			"setupScroll",
+			"isSkeleton",
+			"$deep-red-trans",
+			"sync:false",
+			" : {async:true},",
+			"https",
+			"doc_type",
+			"page",
+			"$top-bar-height",
+			"find",
+			"article",
+			"must",
+			"",
+			"data-hook",
+			"active",
+			"regulations",
+			"",
+			"process_node",
+			"self",
+			"act",
+			"soup",
+			"close-page",
+			"get_act(act)",
+			"-10",
+			"-2",
+			"col-sm",
+			"act_to_path",
+			".legislation"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/assets/stylesheets/global.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3076,
+								3056
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "ruby haml",
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1911.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/stylesheets/base/_typography.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14200,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 2356,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										1940,
+										1943
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								1609,
+								1609
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "html",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "node_modules/bootstrap-sass/templates/project/styles.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/shared/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/assets/javascripts/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "gulpfile.js/config/fonts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "gulpfile.js/config/sass.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/views/layouts/application.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "html",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16501,
+						"regions":
+						{
+							"TagLint":
+							{
+								"flags": 2356,
+								"icon": "dot",
+								"regions":
+								[
+									[
+										15951,
+										15954
+									]
+								],
+								"scope": "variable.parameter"
+							}
+						},
+						"selection":
+						[
+							[
+								15663,
+								15404
+							]
+						],
+						"settings":
+						{
+							"WordCountSyntax": "html",
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"file": "public/assets/images/lightbulb.png",
+					"semi_transient": true,
+					"stack_index": 3,
+					"type": "image"
+				},
+				{
+					"buffer": 10,
+					"file": "gulpfile.js/tasks/build-production.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 72.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "evolution.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"applic",
+				"app/views/layouts/application.html"
+			],
+			[
+				"global",
+				"app/assets/stylesheets/global.sass"
+			],
+			[
+				"style",
+				"node_modules/bootstrap-sass/templates/project/styles.sass"
+			],
+			[
+				"heade",
+				"app/views/shared/header.html"
+			],
+			[
+				"",
+				"app/assets/stylesheets/global.sass"
+			],
+			[
+				"index",
+				"public/index.html"
+			],
+			[
+				"globa",
+				"app/assets/stylesheets/global.sass"
+			],
+			[
+				"gulp",
+				"node_modules/gulp-sequence/gulpfile.js"
+			],
+			[
+				"appl",
+				"app/views/layouts/application.html"
+			],
+			[
+				"reamde",
+				"node_modules/karma/node_modules/colors/ReadMe.md"
+			],
+			[
+				"typo",
+				"app/assets/stylesheets/base/_typography.sass"
+			],
+			[
+				"mixins",
+				"app/assets/stylesheets/base/_mixins.sass"
+			],
+			[
+				"dep",
+				"gulpfile.js/config/deploy.js"
+			],
+			[
+				"header",
+				"app/views/shared/header.html"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html"
+			],
+			[
+				"colors.s",
+				"app/assets/stylesheets/base/_colors.sass"
+			],
+			[
+				"colors",
+				"node_modules/gulp-filesize/node_modules/gulp-util/lib/colors.js"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"update",
+				"scripts/update_legislation.py"
+			],
+			[
+				"tests",
+				"tests.py"
+			],
+			[
+				"views",
+				"views.py"
+			],
+			[
+				"queries",
+				"acts/queries.py"
+			],
+			[
+				"quer",
+				"query/query.py"
+			],
+			[
+				"dev",
+				"dev.py"
+			],
+			[
+				"act",
+				"acts/acts.py"
+			],
+			[
+				"acts",
+				"acts/acts.py"
+			],
+			[
+				"instrumen",
+				"acts/instrument_es.py"
+			],
+			[
+				"querie",
+				"acts/queries.py"
+			],
+			[
+				"update_",
+				"scripts/update_legislation.py"
+			],
+			[
+				"isntrumen",
+				"acts/instrument_es.py"
+			],
+			[
+				"link",
+				"acts/links.py"
+			],
+			[
+				"server",
+				"server.py"
+			],
+			[
+				"defin",
+				"acts/definitions.py"
+			],
+			[
+				"util",
+				"util.py"
+			],
+			[
+				"3_def",
+				"tests/3_definitions.xml"
+			],
+			[
+				"transient",
+				"tests/transient_defs.xml"
+			],
+			[
+				"tests.",
+				"tests.py"
+			],
+			[
+				"migration",
+				"migration.py"
+			],
+			[
+				"premi",
+				"db_functions/premigrate.sql"
+			],
+			[
+				"util.p",
+				"util.py"
+			],
+			[
+				"links",
+				"acts/links.py"
+			],
+			[
+				"def",
+				"acts/definitions.py"
+			],
+			[
+				"tour",
+				"src/js/components/Tour.jsx"
+			],
+			[
+				"backup",
+				"backup_user_info.sh"
+			],
+			[
+				"config",
+				"config_dev.py"
+			],
+			[
+				"aut",
+				"security/auth.py"
+			],
+			[
+				"users",
+				"users/users.py"
+			],
+			[
+				"auth",
+				"security/auth.py"
+			],
+			[
+				"query",
+				"query/query.py"
+			],
+			[
+				"print",
+				"src/css/print.scss"
+			],
+			[
+				"page",
+				"src/js/mixins/Page.js"
+			],
+			[
+				"printview",
+				"src/js/components/PrintView.jsx"
+			],
+			[
+				"buttonbar",
+				"src/js/components/ButtonBar.jsx"
+			],
+			[
+				"instru",
+				"acts/instrument_es.py"
+			],
+			[
+				"populate",
+				"scripts/populate_es.py"
+			],
+			[
+				"elastic",
+				"query/elasticsearch.py"
+			],
+			[
+				"contains",
+				"src/js/components/ContainsResult.jsx"
+			],
+			[
+				"advanced",
+				"src/js/components/AdvancedSearch.jsx"
+			],
+			[
+				"elast",
+				"query/elasticsearch.py"
+			],
+			[
+				"strings",
+				"src/js/strings.js"
+			],
+			[
+				"elsa",
+				"query/elasticsearch.py"
+			],
+			[
+				"popu",
+				"scripts/populate_es.py"
+			],
+			[
+				"elsat",
+				"query/elasticsearch.py"
+			],
+			[
+				"elsatic",
+				"query/elasticsearch.py"
+			],
+			[
+				"inst",
+				"acts/instrument_es.py"
+			],
+			[
+				"populte",
+				"scripts/populate_es.py"
+			],
+			[
+				"instr",
+				"acts/instrument_es.py"
+			],
+			[
+				"view",
+				"db_functions/views.sql"
+			],
+			[
+				"instrument_e",
+				"acts/instrument_es.py"
+			],
+			[
+				"queri",
+				"acts/queries.py"
+			],
+			[
+				"srings",
+				"src/js/strings.js"
+			],
+			[
+				"string",
+				"src/js/strings.js"
+			],
+			[
+				"pages",
+				"src/js/stores/PageStore.js"
+			],
+			[
+				"brower",
+				"src/js/components/Browser.jsx"
+			],
+			[
+				"bro",
+				"src/js/components/Browser.jsx"
+			],
+			[
+				"browser",
+				"src/js/components/Browser.jsx"
+			],
+			[
+				"popovers",
+				"src/js/components/Popovers.jsx"
+			],
+			[
+				"proptype",
+				"node_modules/react-router/lib/PropTypes.js"
+			],
+			[
+				"brow",
+				"src/js/components/Browser.jsx"
+			],
+			[
+				"opovers",
+				"src/js/components/Popovers.jsx"
+			],
+			[
+				"clickout",
+				"src/js/mixins/ClickOut.js"
+			],
+			[
+				"popovers.j",
+				"src/js/components/Popovers.jsx"
+			],
+			[
+				"rea",
+				"README"
+			],
+			[
+				"radme",
+				"node_modules/gulp-dedupe/node_modules/colors/ReadMe.md"
+			],
+			[
+				"section",
+				"src/js/components/SectionReferences.jsx"
+			],
+			[
+				"defint",
+				"src/js/components/Definition.jsx"
+			],
+			[
+				"popover",
+				"src/js/components/Popover.jsx"
+			],
+			[
+				"common",
+				"xslt/common.xslt"
+			],
+			[
+				"actions",
+				"src/js/actions/Actions.js"
+			],
+			[
+				"browsers",
+				"src/js/stores/BrowserStore.js"
+			],
+			[
+				"pagesot",
+				"src/js/stores/PageStore.js"
+			],
+			[
+				"browst",
+				"src/js/stores/BrowserStore.js"
+			],
+			[
+				"print.jsx",
+				"src/js/components/PrintView.jsx"
+			],
+			[
+				"button",
+				"src/js/components/ButtonBar.jsx"
+			],
+			[
+				"context",
+				"src/js/components/ContextMenu.jsx"
+			],
+			[
+				"artiche",
+				"src/js/components/ArticleHandlers.jsx"
+			],
+			[
+				"article",
+				"src/js/components/ArticleHandlers.jsx"
+			],
+			[
+				"artic",
+				"src/js/components/ArticleHandlers.jsx"
+			],
+			[
+				"com",
+				"xslt/common.xslt"
+			],
+			[
+				"articleh",
+				"src/js/components/ArticleHandlers.jsx"
+			],
+			[
+				"tabvi",
+				"src/js/components/TabView.jsx"
+			],
+			[
+				"viewers",
+				"src/js/stores/ViewerStore.js"
+			],
+			[
+				"saved",
+				"src/js/stores/SavedStates.js"
+			],
+			[
+				"action",
+				"src/js/actions/Actions.js"
+			],
+			[
+				"saveds",
+				"src/js/stores/SavedStates.js"
+			],
+			[
+				"articlehar",
+				"src/js/components/ArticleHandlers.jsx"
+			],
+			[
+				"art",
+				"src/js/components/Article.jsx"
+			],
+			[
+				"sechform",
+				"src/js/stores/SearchFormStore.js"
+			],
+			[
+				"searchfor",
+				"src/js/stores/SearchFormStore.js"
+			],
+			[
+				"popo",
+				"src/css/popovers.scss"
+			],
+			[
+				"opover",
+				"src/css/popovers.scss"
+			],
+			[
+				"popop",
+				"node_modules/jest-cli/node_modules/jsdom/node_modules/cssstyle/lib/properties/stopOpacity.js"
+			],
+			[
+				"bros",
+				"src/js/stores/BrowserStore.js"
+			],
+			[
+				"usercon",
+				"src/js/components/UserControls.jsx"
+			],
+			[
+				"t",
+				"src/js/mixins/Tour.js"
+			],
+			[
+				"auto",
+				"src/js/components/AutoComplete.jsx"
+			],
+			[
+				"clear",
+				"src/js/components/ClearInput.jsx"
+			],
+			[
+				"autcompl",
+				"src/js/components/AutoComplete.jsx"
+			],
+			[
+				"clearin",
+				"src/js/components/ClearInput.jsx"
+			],
+			[
+				"form",
+				"src/css/forms.scss"
+			],
+			[
+				"app",
+				"src/js/app.js"
+			],
+			[
+				"autoc",
+				"src/js/components/AutoComplete.jsx"
+			],
+			[
+				"autcom",
+				"src/js/components/AutoComplete.jsx"
+			],
+			[
+				"autocom",
+				"src/js/components/AutoComplete.jsx"
+			],
+			[
+				"tabvie",
+				"src/js/components/TabView.jsx"
+			],
+			[
+				"banner",
+				"src/js/components/Banner.jsx"
+			],
+			[
+				"autc",
+				"src/js/components/AutoComplete.jsx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 327.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 348.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+		"max_columns": 4
+	}
+}
